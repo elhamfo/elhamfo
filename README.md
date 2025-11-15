@@ -1,16 +1,46 @@
-## Hi there 👋
+# 👋 Hi, I'm Elham Fo  
+**Software Engineer (14+ years) | Applied AI in Healthcare & Brain Science**
 
-<!--
-**elhamfo/elhamfo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a software engineer transitioning into applied AI with a strong focus on **machine learning, NLP, and predictive analytics in healthcare**. My work combines technical depth with scientific curiosity — especially around **brain processes, cognition, and wellbeing**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔬 What I’m Working On
+- Building **reproducible ML projects** on medical and wellbeing datasets  
+- Exploring **interpretable AI** and clinical risk prediction  
+- Applying NLP to healthcare and cognitive research  
+- Experimenting with **brain-inspired learning models**
+
+---
+
+## 🛠 Tech Stack
+- **Languages:** Python  
+- **ML/AI:** scikit-learn, PyTorch, TensorFlow, Transformers  
+- **Data:** Pandas, NumPy, Matplotlib, Jupyter  
+- **Engineering:** FastAPI, Docker, Git, CI/CD  
+- **Tools:** Kaggle, VS Code, GitHub Actions
+
+---
+
+## 📚 Currently Learning
+- Advanced Deep Learning  
+- MLOps (model tracking, serving, pipelines)  
+- Generative AI for medical and wellbeing applications  
+
+---
+
+## 📂 Projects
+- Heart Disease Prediction (ML Classification)  
+- Diabetes Progression Prediction  
+- More upcoming AI–health projects focusing on NLP and cognitive insights  
+
+---
+
+## 🏆 Kaggle
+[https://www.kaggle.com/elhamfo](https://www.kaggle.com/elhamfo)
+
+---
+
+## 💬 Let’s Connect
+- **Email:** elham.fo@gmail.com  
+- Open to discussions & collaborations in **AI for healthcare, NLP, and cognitive computing**.
