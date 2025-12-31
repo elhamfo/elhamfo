@@ -1,48 +1,53 @@
 # 👋 Hi, I'm Elham Fo  
-**Software Engineer (14+ years) | Applied AI Research Engineer**
+**AI Engineer | Software Engineer (14+ years)**
 
-I’m a software engineer with over 14 years of industry experience, currently focused on **applied AI research**. My interests lie in **machine learning and neural networks for understanding complex systems**, combining strong engineering practices with scientific reasoning and reproducible experimentation.
+AI Engineer with **14+ years of software engineering experience** and a strong **computer science foundation**.  
+Currently focused on **applied machine learning, deep learning, and generative AI**, with an emphasis on building **practical, reliable, and reproducible AI systems** using Python.
 
-I’m particularly interested in **learning processes, cognition-inspired models, interpretability, and evidence-based analysis**, and in translating research ideas into well-structured, practical implementations.
+I’m particularly interested in **education-focused AI**, **model generalization**, and **production-quality ML workflows**, and in designing systems that help people understand complex concepts rather than simply produce answers.
 
 ---
 
-## 🔬 What I’m Working On
-- Building **reproducible, research-oriented ML projects**
-- Implementing and evaluating **neural networks** alongside classical ML baselines
-- Reproducing and adapting **machine learning research papers**
-- Exploring **model interpretability and experimental analysis**
-- Designing clean, well-documented ML pipelines from data to results
+## 🔧 What I’m Working On
+- Building **applied AI systems** with a strong focus on usability and learning outcomes
+- Developing an **AI-powered debugging tutor for programming learners**
+- Designing **LLM-based educational tools** with guardrails and pedagogical intent
+- Implementing clean, reproducible **end-to-end ML pipelines**
+- Exploring failure modes, generalization, and evaluation in real-world ML systems
 
 ---
 
 ## 🛠 Tech Stack
 - **Languages:** Python  
 - **ML / AI:** scikit-learn, TensorFlow, Keras  
+- **Generative AI:** LLM APIs, prompt design, evaluation  
 - **Data:** NumPy, Pandas, Matplotlib, Jupyter  
-- **Engineering:** Git, Docker, FastAPI  
-- **Tools:** Kaggle, GitHub Actions, VS Code  
+- **Engineering:** FastAPI, Docker, Git, GitHub Actions  
+- **Tools:** Kaggle, VS Code  
 
 ---
 
 ## 📚 Currently Learning
-- Deep learning architectures and optimization
-- Research-oriented experimentation and evaluation
-- Interpretable and trustworthy AI
-- MLOps fundamentals for applied research workflows
+- Generative AI and Large Language Models (DeepLearning.AI)
+- Applied deep learning and representation learning
+- Model behavior, generalization, and evaluation
+- MLOps fundamentals for applied AI systems
 
 ---
 
-## 📂 Projects
-- Heart Disease Classification (Classical ML)
-- Diabetes Dataset Analysis and Prediction
-- Ongoing work on neural networks and research paper reproductions
+## 📂 Selected Projects
+- **AI Debugging Tutor** (in progress) — educational AI tool for programming learners  
+- Classical ML projects (healthcare datasets)  
+- Neural network experiments and applied ML pipelines  
+
+---
 
 ## 🏆 Kaggle
-[https://www.kaggle.com/elhamfo](https://www.kaggle.com/elhamfo)
+🔗 https://www.kaggle.com/elhamfo
 
 ---
 
 ## 💬 Let’s Connect
-- **Email:** elham.fo@gmail.com  
-- Open to discussions and collaborations in **applied AI research, machine learning, neural networks, and reproducible scientific ML**.
+📧 elham.fo@gmail.com  
+
+Open to discussions and collaboration in **applied AI engineering**, **AI for education**, and **production ML systems**.
