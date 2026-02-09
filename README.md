@@ -36,7 +36,8 @@ I’m particularly interested in **education-focused AI**, **model generalizatio
 ---
 
 ## 📂 Selected Projects
-- **AI Debugging Tutor** (in progress) — educational AI tool for programming learners  
+- **AI Debugging Tutor** (in progress) — educational AI tool for programming learners
+- **Personalized recipe advisor chatbot (RAG)**
 - Classical ML projects (healthcare datasets)  
 - Neural network experiments and applied ML pipelines  
 
