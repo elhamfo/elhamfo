@@ -18,6 +18,7 @@ Currently most passionate about creating AI tools that **help people learn deepl
   → https://github.com/elhamfo/debugor-ai
 
 - **RAG-based personalized recipe advisor chatbot**  (FastAPI + React + Tailwind CSS + Ollama /     OpenRouter) A modern, full-stack personalized recipe advisor chatbot that helps users find or adapt  recipes based on ingredients they have, dietary preferences, time constraints, and number of servings.
+  → https://github.com/elhamfo/cookoo
 
 - Classical & deep learning projects on healthcare datasets
 
